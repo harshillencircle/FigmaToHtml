@@ -336,6 +336,18 @@
   .w-\[200px\] {
     width: 200px;
   }
+  .w-\[210px\] {
+    width: 210px;
+  }
+  .w-\[220px\] {
+    width: 220px;
+  }
+  .w-\[230px\] {
+    width: 230px;
+  }
+  .w-\[235px\] {
+    width: 235px;
+  }
   .w-\[250px\] {
     width: 250px;
   }
@@ -419,6 +431,9 @@
   }
   .justify-end {
     justify-content: flex-end;
+  }
+  .justify-start {
+    justify-content: flex-start;
   }
   .justify-stretch {
     justify-content: stretch;
@@ -539,6 +554,12 @@
   }
   .bg-\[\#FBF2DC\] {
     background-color: #FBF2DC;
+  }
+  .bg-\[\#FBFBFB\#FBFBFB\] {
+    background-color: #FBFBFB#FBFBFB;
+  }
+  .bg-\[\#FBFBFB\] {
+    background-color: #FBFBFB;
   }
   .bg-gray-300 {
     background-color: var(--color-gray-300);
